@@ -1,0 +1,518 @@
+#1 lesson 4
+Használjon erős jelszavakat e-mailjeihez és közösségi oldalaihoz
+fiókok.
+
+
+Van néhány dolog, amire figyelned kell, mikor
+jó jelszavak beállításával foglalkozik online tevékenységeihez
+számít. Először is ne használja többször ugyanazt a jelszót
+mint egy online fiók!
+Az ok nagyon könnyen kitalálható: ha valamelyik online
+fiókokat feltörik, akkor hamarosan a többiek is követik. Különböző jelszavak használatával 
+csökkentheti az esetleges veszteséget
+szenvedhet, ha ez a személyes adatok megsértése megtörténik.
+
+Az egyik legjobb módja annak, hogy biztosítsa online fiókjait
+senki más nem férhet hozzá, csak a 2 lépést kell használnia
+ellenőrzési módszer. Ennek a módszernek az aktiválása azt jelenti
+meg kell adnia a hitelesítő adatain kívül egy kódot is
+telefonjára küldve. Ezzel a módszerrel megvédheti
+személyes adatait a közösségi média fiókjaiból vagy
+fontos adatokat az e-mail fiókjából.
+
+1.1
+A jelszókezelés 7 halálos bűne
+
+1
+Ne tárolja jelszavait szöveges fájlban,
+lapot, egyszerű szöveget vagy hasonló, nem védett dokumentumot!
+
+Miért? Mert azt a gyenge fájlt ellophatják, megsérülhetik,
+törölték, vagy ami még rosszabb, visszakeresték a számítógépes bűnözők. nem tenném
+szeretném látni, hogy 200 jelszó megváltoztatására törekszel
+a lehető leghamarabb, ha valaha is feltörték.
+Ne tárolja jelszavait szöveges fájlban,
+lapot, egyszerű szöveget vagy hasonló, nem védett dokumentumot!
+
+2.
+Nem használhatja azt az alapértelmezett jelszót, amelyet a
+Szolgáltató
+
+Miért? Egyszerű: mert ezek a jelszavak általában
+egyszerű, következésképpen könnyen törhető. Lenne
+mint édességet adni a babának, ahogy mondják. És a kiberbűnözés
+A nálisok szeretik a jelszavakat és (valószínűleg) az édességet is.
+
+
+3
+Ne használja a szégyenletesen gyenge jelszavak egyikét
+szerepel ebben a top 10-ben!
+
+123456
+123456789
+1234
+Jelszó
+12345
+12345678
+Admin
+123
+111111
+1234567
+Miért? Szerintem a fenti jelszavak magától értetődőek,
+nem?
+
+
+4
+Ne használjon olyan szavakat, amelyek a szótárban találhatók
+vagy ezek gyakori kifejezések!
+
+Miért? Mivel a számítógépes bűnözőknek van egy „dic-
+ciós támadás”.
+A szótári támadás az a. összes karakterláncának kipróbálásán alapul
+előre egyeztetett felsorolás, amely jellemzően szójegyzékből származik
+mint például egy szótárban (innen a név). És szótár
+támadások gyakran sikeresek, pontosan azért, mert sokan használják
+rövid jelszavak, amelyek közönséges vagy egyszerű szavakat tartalmaznak
+változatok, amelyeket például egy számjegy vagy írásjel hozzáadásával kapunk.
+
+5
+Ne használjon olyan jelszavakat, amelyek tartalmazzák születési dátumát
+vagy más, online könnyen elérhető információ!
+
+Miért? Mert a személyes adatainak felkutatása
+Az internet az, ami a számítógépes bűnözők számára teret ad. Még akkor is, ha
+az adatvédelmi beállításaid a maximumra vannak tolva, van
+mindig megkerülheti őket egy olyan srác számára, aki magabiztos
+a megélhetéshez szükséges információ
+
+
+6
+Nem használhatja ugyanazt a jelszót anélkül, hogy megváltoztatná
+hosszú ideig
+
+Miért? Mert a jelszavak, akárcsak a fagylalt a tiédben
+hűtőszekrény, legyen lejárati ideje. Lehet, hogy régi jelszó
+könnyen feltörhető, és sok mindentől lefelé lehet esni
+ott. A dolgok frissen tartása elkerülheti a problémákat
+vágány
+
+7
+Nem használhatja kétszer ugyanazt a jelszót! Ez egy nagy
+egy. Komolyan!
+
+Miért? Ez az egyik legnagyobb hiba, amelyet mindannyian elkövetünk
+amikor a jelszókezelésről van szó. Használni a
+ugyanaz a jelszó egynél több fiókhoz (és általában
+egyszerűvé téve) azt jelenti, hogy a kiberbűnözők megteszik
+TÖBB fiókhoz juthat egyszerre, és TÖBB adatot lophatnak el, és TÖBB kárt okozhatnak!
+Képzeld el, ha feltörték az online bankszámlád jelszavát. És ez a jelszó az Ön számára lesz használva
+e-mail fiók is. El tudod képzelni a hatását egy
+megtámadja személyes pénzügyeit, valamint szakmai és magánéletét?
+
+
+
+#2 lesson 3
+Egy speciális biztonsági megoldással védheti meg magát a kémprogramokkal szemben.
+
+
+
+Először is határozzuk meg gyorsan, mi is pontosan a spyware? Spyware
+olyan szoftverre utal, amely képes telepíteni az Ön számítógépére
+számítógép, és elkezdi megnyitni a felugró ablakokat, átirányítja
+böngészője rosszindulatú webhelyekre, és figyeli az Ön
+böngészési munkamenetek, amelyek hatással vannak az Ön privát internetkapcsolatára
+ciók. (Majd kitalálod ezt a félig technikai halandzsát
+3. lecke, ígérem!)
+Van néhány jel, amelyeknek jelet kell kiváltaniuk
+riasztás:
+
+a számítógép lassú programok megnyitásakor vagy futtatásakor
+néhány alkalmazás
+felugró ablakok mindig megjelennek
+új eszköztár jelenhet meg a böngészőjében
+a webböngészőjének kezdőlapja módosult
+a keresőmotor megváltozott a böngészőjében
+hibaüzenetek váratlanul megjelennek
+
+A kémprogramok elleni védelem érdekében használja az egyik népszerű
+online elérhető ti-spyware termékek. Néhány biztonsági megoldás
+amelyek képesek eltávolítani a kémprogramokat a rendszerről
+Malwarebytes, Spybot Search and Destroy, Lavasoft's
+Ad-Aware stb.
+Ugyanakkor egyszerűen kövesse ezeket a jó biztonsági gyakorlatokat.
+tices:
+
+Ne kattintson semmilyen gyanús linkre vagy előugró ablakra
+Ne válaszoljon váratlan válaszokra, vagy egyszerűen válasszon
+Nem
+Legyen óvatos, amikor ingyenes alkalmazásokat tölt le
+
+
+
+
+
+#3
+Tartsa meg Windows operációs rendszerét és saját
+a sebezhető alkalmazások naprakészek.
+
+
+Biztos vagyok benne, hogy az utóbbi időben sok biztonsági hírt olvasott
+a szoftver sebezhetőségeivel kapcsolatban, és felteszi a kérdést:
+mit tehetek? Sokan nem veszik komolyan ezt a hírt, hiszen a legtöbb
+biztonsági megoldásokat elsősorban a rosszindulatú szoftverek
+áru.
+A szoftveres sebezhetőségek azonban nem olyanok, amelyeket megtehetsz
+figyelmen kívül hagyni. A szoftver sebezhetőségeinek kihasználása
+népszerű programokban és alkalmazásokban népszerű
+online bűnözők által használt módszer.
+Tehát, ha tudja, hogy olyan népszerű szoftvereket használ, mint a Java,
+Adobe Flash, Adobe Shockwave, Adobe Acrobat Reader,
+Quicktime vagy olyan népszerű webböngészők, mint a Chrome, Mozilla
+Firefox vagy Internet Explorer, mindig győződjön meg arról, hogy rendelkezik
+a legújabb elérhető javítások.
+Meg kell értenie, hogy ezek a szoftveres megoldások
+mindig a bűnözők fenyegetése alatt áll, ezért ne hagyatkozzon rá
+memóriáját, és telepítsen egy dedikált megoldást
+ezeket a műveleteket az Ön számára.
+
+
+
+
+#4
+Használjon szabványos felhasználói fiókot a Windows rendszerben
+operációs rendszert az internethez való csatlakozáshoz
+
+
+Különböző szintű jogok és kiváltságok állnak rendelkezésre
+a Windows felhasználói fiókok. javaslom stan-
+dard Windows felhasználói fiókot az internet eléréséhez.
+Ha szabványos fiókot használ Windows operációs rendszerében, győződjön meg arról, hogy egy rosszindulatú program, amely
+megfertőzheti korlátozott felhasználói fiókját, nem lesz képes
+nagy károkat okoz a rendszerében.
+Csak egy rendszergazdai fiók lehet jelentős
+a rendszer módosításai, például a fontos Windows törlése
+kapcsolódó fájlokat vagy rosszindulatú szoftvereket telepít. Ha használ
+szabványos fiókjához, meg kell adnia
+minden alkalommal megadja a rendszergazdai fiók adatait
+fontos változást hozni
+
+
+
+
+#5
+Ne kapcsolja KI az UAC-t (Felhasználói fiókok felügyelete)(User Account Control)
+
+Be kell vallanom, én is hajlamos vagyok erre
+csinálni:
+Kapcsolja ki az UAC-t, amint telepítem/újratelepítem a Win-
+dows operációs rendszer.
+De meg kell tennem? Ez biztonságosabbá teszi a rendszeremet?
+A válasz nem.
+Mi van, ha ahelyett, hogy teljesen kikapcsolná, talán megteheti
+csak csökkenti a védelem szintjét a biztosított használatával
+csúszka?
+Az UAC szerepe az, hogy figyelemmel kísérje, milyen változások következnek be a
+rendszer, és amikor egy fontos esemény történik, mint pl
+alkalmazás telepítése vagy eltávolítása Az UAC gondoskodik arról, hogy rendelkezzen rendszergazdai jogosultságokkal
+és hogy valóban meg akarja tenni ezt a lépést. Abban az esetben, ha a te
+A Windows felhasználói fiók megfertőződött, az UAC segít
+megakadályozva, hogy a gyanús szoftverek változtatásokat hajtsanak végre
+a rendszer.
+
+
+
+#6 lesson 10
+Csatlakozzon az internethez egy biztonságos böngészővel
+
+A webböngésző a fő eszköz, amellyel elérheti
+Internet, és erre nagyon oda kell figyelni
+rögzítse megfelelően. Ugyanakkor a sebezhetőségek a
+a webböngészők olyanok, mint a hackerek nyílt meghívása. Által
+ezeket a nyitott ajtókat használva az online bűnözők megkísérlik
+személyes adatok lekérése a rendszerről.
+Online adatainak védelme érdekében kövesse az alábbi utasításokat:
+ajánlások:
+Csatlakozzon az internethez egy biztonságos böngészővel6.
+Válassza ki böngészőjének legújabb verzióját, és győződjön meg róla
+telepítve van a legújabb biztonsági javítás. Ez
+fontos, és megvédi rendszerét az internettől
+bűnözők támadásai.
+Növelje adatvédelmi és biztonsági beállításait a böngészésben -
+er. Epikus, felhasználóbarát, hogyan kell a 10. leckében!
+Válasszon privát böngészési munkamenetet, amikor eléri a
+webhely, amelyben nem vagy biztos. Ha ezt a navigációs módot választja, akkor a böngészési munkamenet részletei nem jelennek meg
+tárolás alatt áll.
+Használjon biztonságos webhelyeket az érzékeny pénzügyi műveletekhez. Nak nek
+látogasson el egy biztonságos webhelyre, és győződjön meg arról, hogy a webcím elindul
+„https://”-vel. Az „s” a „secure socket layer”-ből származik,
+és azt jelzi, hogy csatlakozik egy webhelyhez, ahol
+a küldött és fogadott adatok titkosítva vannak
+
+
+
+
+#7 lesson 11
+Ne bízzon a nyilvános és ingyenes Wi-Fi hálózatokban
+
+Legyen óvatos, amikor nyilvános és ingyenes vezeték nélküli hálózathoz csatlakozik
+hálózatok. Az egyik kedvenc online módszer
+A bűnözők vezeték nélküli kapcsolaton keresztül szerezhetik meg hitelesítő adatait
+szippantóknak, hogy hozzáférjenek a nem védett hálózatokon küldött adatokhoz.
+A biztonság növelésének egyik módja a „privát
+böngészés” munkamenetben, így megbizonyosodhat arról,
+a tiálok nem lesznek helyben tárolva. Ennek ellenére ez nem áll meg
+az internetszolgáltató vagy bárki más, aki „hallgat”
+odakint, hogy elkapja privát kommunikációját.
+Az online lopás veszélyének növekedésével és hiányával
+magánélet védelme a népszerű közösségi platformokon, például a Facebookon,
+meg kell védened a szabadságodat és meg kell védened
+Internetes tevékenységek. A böngészés megtartásának egyik módja
+privát és biztonságos munkamenet egy VPN (vagyis egy Vir-
+magánhálózat).
+
+Otthoni Wi-Fi-je és eszközei csúcsformába hozása
+az online böngészésről szól a 11. lecke. Cyber
+a bűnözők nem fogják tudni, mi akadályozta meg őket!
+
+
+
+#8
+Mielőtt rákattint, ellenőrizze a linket
+
+Az adathalász fenyegetéseket általában e-mail üzenetek használatával hajtják végre.
+es amelyek nyilvánvalóan pénzintézetektől származnak, ill
+jól ismert banki weboldalak. Ezek a visszakeresési kísérletek
+a felhasználótól származó személyes adatok hivatkozásokat biztosítanak az üzenetben
+bölcsek, amelyek az áldozatot hamis internetes helyre irányítják,
+online bűnözők trollkodnak.
+Annak érdekében, hogy ne fertőződjön meg, kattintson a dan-
+gerous linkek, vigye az egeret a link fölé, és nézze meg, hogy Ön
+törvényes helyre irányítják. Ha felkeltél volna-
+az online banki webhely eléréséhez, de a link
+a „hfieo88.net” feliratot jelzi, akkor ne kattintson a hivatkozásra.
+Szóval, honnan tudhatom, hova jutok, ha rákattintok?
+Annak érdekében, hogy megbizonyosodjon arról, hogy a megfelelő irányba megy, használja a
+ingyenes eszköz, mint például a Redirect Detective. Ez az eszköz lehetővé teszi
+megtekintheti az átirányított hivatkozás teljes elérési útját. Egy másik
+eszköz, amely nagyon hasznos lehet a gyanú ellenőrzésében
+A cious links a megbízható URL-ellenőrző, a VirusTotal:
+https://virustotal.com/
+
+
+
+
+#9
+Ne felejtsen el kijelentkezni
+
+
+Ne egyszerűen zárja be a böngészőt, ha végzett
+pénzügyi műveleteiről, vagy amikor kilép az online ügyletből
+számol.
+Ne feledje, hogy ki kell jelentkeznie a fiókjából
+online fiók. Ha ezt nem teszi meg, főleg ha igen
+nyilvános helyen a következő személy, aki megnyitja az Arc-
+könyvfiók például közvetlenül hozzáférhet az arc-
+könyv profilja.
+Azt javaslom, hogy használjon virtuális böngészőt a pénzügyeihez
+az online banki szolgáltatások biztonságának megőrzése érdekében. Pri-
+privát böngészés is javasolt, ha Ön
+szeretné megakadályozni a hitelesítési adatokat (vagy cookie-kat)
+a tárolástól.
+
+
+
+
+#10 lesson 13
+Ne tegyen közzé személyes információkat a közösségi médiában
+fiókok
+
+
+A személyes adatok nyilvánosságra hozatala arra késztetheti a hackereket, hogy megtalálják
+pénzügyi adatait. Ugyanezen okból ellenőrizze
+gyermekei közösségi média viselkedését, hogy megbizonyosodjon arról, hogy nem
+felfedhet személyes adatokat, amelyek esetleg felhasználhatók
+ellened, adathalász támadásokban.
+A 13. lecke felhasználásra kész tanácsokat tartalmaz
+hogyan maradhat biztonságban a közösségi média használata közben.
+
+
+
+
+#11 lesson 3
+Ne érjen el megkérdőjelezhető internetes helyeket
+
+Ne érjen el és ne töltsön le tartalmat ismeretlen vagy
+troverzális helyszínek. Hozzáférés a bevált webhelyekhez
+biztonságban, és tudod, hogy megbízhatsz.
+Ez azonban nem garancia arra, hogy nem kapja meg
+fertőzött. Manapság a kiberbűnözők kihasználják a sebezhetőséget,
+legitim webhelyekhez kötődik, és rosszindulatú kódot juttat be, mint pl
+hogy áthajtós támadásokat hajtsanak végre a gyanútlan látogatók ellen.
+Ez lehet egy ingyenes képernyővédő vagy egy böngésző eszköztár
+megfertőzheti Önt egy keyloggerrel (a definíció jön
+lecke!), amely rögzítheti és elküldheti személyes adatait
+kiberbűnözők.
+Hogy megbizonyosodjon arról, hogy rendszere védve van, és a hitelesítő
+tials nincs kitéve, telepítsen biztonsági terméket, amely
+képes észlelni és megakadályozni, hogy a hackerek értékes információkat lopjanak el.
+rendszeréből.
+Köszönjük, hogy a végéig velünk tartottatok!
+Igyekeztünk lefedni a minimálisan megtehető lépéseket
+rövid ideig, hogy nagymértékben megnövelje a rendszer se-
+kíváncsiság.
+Bár lehet, hogy most nincs időd mindegyiket követni, ne feledd, hogy bármikor visszatérhetsz ehhez
+papírra, amikor úgy érzi, hogy újra át kell néznie az információkat
+
+
+
+
+
+
+
+
+3 --- hogyan fertőződhetsz
+
+4 ---  Jelszó
+
+10 --- böngésző 
+
+11 ---nyilvános Wi-Fi-hálózat biztonság megőrzés
+
+13 --- Social media
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

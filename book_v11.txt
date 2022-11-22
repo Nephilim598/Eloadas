@@ -1,0 +1,805 @@
+#1 lesson 4
+Használjon erős jelszavakat e-mailjeihez és közösségi oldalaihoz
+fiókok.
+
+
+Van néhány dolog, amire figyelned kell, mikor
+jó jelszavak beállításával foglalkozik online tevékenységeihez
+számít. Először is ne használja többször ugyanazt a jelszót
+mint egy online fiók!
+Az ok nagyon könnyen kitalálható: ha valamelyik online
+fiókokat feltörik, akkor hamarosan a többiek is követik. Különböző jelszavak használatával 
+csökkentheti az esetleges veszteséget
+szenvedhet, ha ez a személyes adatok megsértése megtörténik.
+
+Az egyik legjobb módja annak, hogy biztosítsa online fiókjait
+senki más nem férhet hozzá, csak a 2 lépést kell használnia
+ellenőrzési módszer. Ennek a módszernek az aktiválása azt jelenti
+meg kell adnia a hitelesítő adatain kívül egy kódot is
+telefonjára küldve. Ezzel a módszerrel megvédheti
+személyes adatait a közösségi média fiókjaiból vagy
+fontos adatokat az e-mail fiókjából.
+
+1.1
+A jelszókezelés 7 halálos bűne
+
+1
+Ne tárolja jelszavait szöveges fájlban,
+lapot, egyszerű szöveget vagy hasonló, nem védett dokumentumot!
+
+Miért? Mert azt a gyenge fájlt ellophatják, megsérülhetik,
+törölték, vagy ami még rosszabb, visszakeresték a számítógépes bűnözők. nem tenném
+szeretném látni, hogy 200 jelszó megváltoztatására törekszel
+a lehető leghamarabb, ha valaha is feltörték.
+Ne tárolja jelszavait szöveges fájlban,
+lapot, egyszerű szöveget vagy hasonló, nem védett dokumentumot!
+
+2.
+Nem használhatja azt az alapértelmezett jelszót, amelyet a
+Szolgáltató
+
+Miért? Egyszerű: mert ezek a jelszavak általában
+egyszerű, következésképpen könnyen törhető. Lenne
+mint édességet adni a babának, ahogy mondják. És a kiberbűnözés
+A nálisok szeretik a jelszavakat és (valószínűleg) az édességet is.
+
+
+3
+Ne használja a szégyenletesen gyenge jelszavak egyikét
+szerepel ebben a top 10-ben!
+
+123456
+123456789
+1234
+Jelszó
+12345
+12345678
+Admin
+123
+111111
+1234567
+Miért? Szerintem a fenti jelszavak magától értetődőek,
+nem?
+
+
+4
+Ne használjon olyan szavakat, amelyek a szótárban találhatók
+vagy ezek gyakori kifejezések!
+
+Miért? Mivel a számítógépes bűnözőknek van egy „dic-
+ciós támadás”.
+A szótári támadás az a. összes karakterláncának kipróbálásán alapul
+előre egyeztetett felsorolás, amely jellemzően szójegyzékből származik
+mint például egy szótárban (innen a név). És szótár
+támadások gyakran sikeresek, pontosan azért, mert sokan használják
+rövid jelszavak, amelyek közönséges vagy egyszerű szavakat tartalmaznak
+változatok, amelyeket például egy számjegy vagy írásjel hozzáadásával kapunk.
+
+5
+Ne használjon olyan jelszavakat, amelyek tartalmazzák születési dátumát
+vagy más, online könnyen elérhető információ!
+
+Miért? Mert a személyes adatainak felkutatása
+Az internet az, ami a számítógépes bűnözők számára teret ad. Még akkor is, ha
+az adatvédelmi beállításaid a maximumra vannak tolva, van
+mindig megkerülheti őket egy olyan srác számára, aki magabiztos
+a megélhetéshez szükséges információ
+
+
+6
+Nem használhatja ugyanazt a jelszót anélkül, hogy megváltoztatná
+hosszú ideig
+
+Miért? Mert a jelszavak, akárcsak a fagylalt a tiédben
+hűtőszekrény, legyen lejárati ideje. Lehet, hogy régi jelszó
+könnyen feltörhető, és sok mindentől lefelé lehet esni
+ott. A dolgok frissen tartása elkerülheti a problémákat
+vágány
+
+7
+Nem használhatja kétszer ugyanazt a jelszót! Ez egy nagy
+egy. Komolyan!
+
+Miért? Ez az egyik legnagyobb hiba, amelyet mindannyian elkövetünk
+amikor a jelszókezelésről van szó. Használni a
+ugyanaz a jelszó egynél több fiókhoz (és általában
+egyszerűvé téve) azt jelenti, hogy a kiberbűnözők megteszik
+TÖBB fiókhoz juthat egyszerre, és TÖBB adatot lophatnak el, és TÖBB kárt okozhatnak!
+Képzeld el, ha feltörték az online bankszámlád jelszavát. És ez a jelszó az Ön számára lesz használva
+e-mail fiók is. El tudod képzelni a hatását egy
+megtámadja személyes pénzügyeit, valamint szakmai és magánéletét?
+
+
+
+
+
+
+
+#2 lesson 3
+Egy speciális biztonsági megoldással védheti 
+meg magát a kémprogramokkal szemben.
+
+
+
+Először is határozzuk meg gyorsan, mi is pontosan a spyware? Spyware
+olyan szoftverre utal, amely képes telepíteni az Ön számítógépére
+számítógép, és elkezdi megnyitni a felugró ablakokat, átirányítja
+böngészője rosszindulatú webhelyekre, és figyeli az Ön
+böngészési munkamenetek, amelyek hatással vannak az Ön privát internetkapcsolatára
+ciók. (Majd kitalálod ezt a félig technikai halandzsát
+3. lecke, ígérem!)
+Van néhány jel, amelyeknek jelet kell kiváltaniuk
+riasztás:
+
+a számítógép lassú programok megnyitásakor vagy futtatásakor
+néhány alkalmazás
+felugró ablakok mindig megjelennek
+új eszköztár jelenhet meg a böngészőjében
+a webböngészőjének kezdőlapja módosult
+a keresőmotor megváltozott a böngészőjében
+hibaüzenetek váratlanul megjelennek
+
+A kémprogramok elleni védelem érdekében használja az egyik népszerű
+online elérhető ti-spyware termékek. Néhány biztonsági megoldás
+amelyek képesek eltávolítani a kémprogramokat a rendszerről
+Malwarebytes, Spybot Search and Destroy, Lavasoft's
+Ad-Aware stb.
+Ugyanakkor egyszerűen kövesse ezeket a jó biztonsági gyakorlatokat.
+tices:
+
+Ne kattintson semmilyen gyanús linkre vagy előugró ablakra
+Ne válaszoljon váratlan válaszokra, vagy egyszerűen válasszon
+Nem
+Legyen óvatos, amikor ingyenes alkalmazásokat tölt le
+
+#2.1             18 alapvető kiberbiztonsági kifejezés, amit VALÓBAN tudnod kell
+
+ Kémprogram-elhárító szoftver
+A kémprogram-elhárító szoftverek a kémprogram-kísérletek észlelésére, 
+blokkolására és/vagy eltávolítására szolgálnak.
+A spyware olyan szoftvertípus, amely az Ön engedélye nélkül igyekszik begyűjteni az Ön személyes adatait.
+ Képes teljesen átvenni a számítógépét!
+ Az általa gyűjtött információkat az Ön beleegyezése nélkül továbbítják egy harmadik félnek.
+
+A kémprogramoknak 4 fő típusa van:
+rendszerfigyelők, trójai programok, reklámprogramok és nyomkövető cookie-k.
+A kémprogramokat főként a felhasználó online mozgásának nyomon követésére, 
+valamint bosszantó és veszélyes pop-up hirdetések megjelenítésére használják.
+
+HOGYAN LEHET FERTŐZŐDNI:
+A rendszer megfertőződhet kémprogramokkal, ha bizonyos webhelyeket látogat meg, 
+felugró üzenetekkel, amelyek egy alkalmazás vagy program letöltését kérik (mondták, hogy gonoszak!),
+ a böngészőben vagy más szoftverben lévő biztonsági réseken keresztül stb.
+Általában a kémprogramok jól el vannak rejtve, és nehéz megfigyelni is. 
+Kémprogram-fertőzést észlelhet, amikor a vírus elkezdi használni a rendszer erőforrásait,
+ és olyan módon lelassítja azt, amitől igazán, nagyon dühös lesz.
+
+
+
+
+#2.2
+Víruskereső szoftver
+A víruskereső szoftver, amelyet néha rosszindulatú programok elleni programnak is neveznek (nevezhetjük AV-nak is, ha mutogatni szeretne), olyan számítógépes szoftver, amelyet a rosszindulatú szoftverek megelőzésére, észlelésére és eltávolítására használnak.
+
+A víruskereső védi számítógépét számos fenyegetéstől, például zsarolóprogramoktól, rootkitektől, trójai programoktól, kémprogramoktól, adathalász támadásoktól vagy botnetektől.
+Anélkül, hogy technikáskodnánk, mondjuk azt, hogy a víruskereső módszer a fertőzések után kutatva nem igazán képes megbirkózni a jelenlegi fenyegetésekkel. A kiberbűnözők okosak. Tényleg, nagyon okos! A támadásaik pedig ördögiek, ezért ne feledje, hogy a vírusvédelem nem elég, és valami többre van szüksége a biztonság megőrzéséhez.
+De ez nem jelenti azt, hogy nincs szüksége víruskeresőre. TE, bízz bennem! De más dolgokra is szükséged van, és erről majd később.
+szoftver stb.
+Általában a kémprogramok jól el vannak rejtve, és nehéz megfigyelni is. Kémprogram-fertőzést észlelhet, amikor a vírus elkezdi használni a rendszer erőforrásait, és olyan módon lelassítja azt, amitől igazán, nagyon dühös lesz.
+
+
+#2.3
+
+Kibertámadás
+3. lecke
+A számítógépes támadás bármely típusú támadó tevékenységnek minősül, amelyet számítógépes bűnözők használnak arra, hogy rosszindulatú kódot telepítsenek az Ön rendszerébe azzal a céllal, hogy ellopják, módosítsák, megsemmisítsék vagy kihasználják a műveletből származó előnyöket.
+A kibertámadások emberek és dolgok egyaránt célba vehetők. BÁRHOL. BÁRMIKOR. Egyéni felhasználók, számítógépes hálózatok, információs rendszerek, minden típusú és méretű informatikai infrastruktúra – senki sincs biztonságban! (És nem vagyok drámai
+azt.)
+Az okosabb számítógépes bűnözők pedig erősebb támadásokat indítanak, amelyek rosszabb következményekkel járnak.
+
+
+
+#2.4
+
+Drive-by letöltés
+Az autós letöltés két dologra utalhat:
+ 
+a. Letöltés, amelyet Ön engedélyezett, de a következmények megértése nélkül (például: olyan letöltések, amelyek ismeretlen vagy hamisított futtatható programot, ActiveX-komponenst vagy Java kisalkalmazást telepítenek).
+b. Vírus vagy rosszindulatú szoftver (rosszindulatú program) nem szándékos letöltése számítógépére vagy mobileszközére. HOGYAN LEHET FERTŐZŐDNI:
+Drive-by letöltések történhetnek, amikor meglátogat egy webhelyet, e-mailt olvas, vagy ha egy megtévesztő előugró ablakra kattint.
+3. lecke
+Az ilyen típusú rosszindulatú letöltések általában olyan böngészőt, alkalmazást vagy operációs rendszert használnak ki (vagy „kihasználnak”), amely elavult, és olyan biztonsági hibával rendelkezik, amelyet nem sikerült megoldani vagy javítani.
+Ezért nagyon fontos, hogy szoftverét folyamatosan frissítse. (Semmi gond, menet közben foglak nyaggatni ezzel kapcsolatban.)
+
+
+2.5
+
+Kihasználni
+A kizsákmányolás egy olyan szoftver, adattömb vagy parancskészlet, amely rosszindulatú célokra kihasznál egy hibát, hibát vagy sebezhetőséget.
+A kihasználások zavarokat okozhatnak a számítógépes szoftver, hardver vagy valami elektronikus (általában számítógépes) működésében.
+HOGYAN LEHET FERTŐZŐDNI:
+A kihasználások használatával a számítógépes bűnözők átvehetik az irányítást számítógépe felett.
+Ezek után nagyjából azt csinálhatnak, amit akarnak.
+3. lecke
+Az egyik módja annak, hogy megvédje magát a visszaélésektől, ha folyamatosan frissíti a szoftvert (mondtam, hogy nyaggatni fogom Önt ezzel kapcsolatban!), és megtesz minden lényeges biztonsági intézkedést (amelyeket ezen a tanfolyamon mutatok meg).
+
+
+#2.6
+
+Keylogging
+A billentyűnaplózás (más néven billentyűleütések naplózása) egy olyan módszer, amellyel a számítógépes bűnözők rögzítik (vagy naplózzák) a billentyűzeten leütött billentyűket, hogy bizalmas információkat szerezzenek meg Önről.
+Természetesen ezt rejtett módon teszik, hogy ne tudja, hogy figyelnek rád, miközben a szokásos módon beírja a jelszavakat, címeket és egyéb titkos adatokat a billentyűzeten.
+
+Így fertőződhet meg:
+A keyloggereket általában rosszindulatú szándékkal használják jelszavak vagy hitelkártyaadatok ellopására.
+Bár sok kémprogram-elhárító alkalmazás képes észlelni néhány szoftver alapú billentyûrögzítõt és karanténba helyezni, letiltani vagy megtisztítani õket, nincs olyan megoldás, amely 100%-ban hatékony lenne az ilyen típusú fenyegetések ellen.
+
+
+#2.7
+
+Malvertising
+3. lecke
+A rosszindulatú reklámozás (a "rosszindulatú hirdetések" rövidítése) az online hirdetések használata rosszindulatú programok terjesztésére.
+A számítógépes bűnözők rosszindulatú vagy rosszindulatú programokkal feltöltött kódokat juttatnak be online hirdetési hálózatokba vagy legitim webhelyekre, amelyek aztán kattintással, átirányítással vagy letöltéssel megfertőzik rendszereit.
+Mivel az online hirdetéseket online hirdetési hálózatok kezelik, még egy legitim webhely is tartalmazhat fertőzött webes szalaghirdetést, bár maga a webhely kompromisszumok nélküli. A The New York Times, a londoni tőzsde, a Spotify és a The Onion olyan webhelyek, amelyek tudtukon kívül rosszindulatú hirdetéseket tartalmaznak.
+
+A számítógépes bûnözõk felugró hirdetéseket, gyors letöltéseket, webes widgeteket, rejtett iframe-eket, rosszindulatú szalaghirdetéseket és harmadik fél által készített alkalmazásokat (például fórumokat, súgószolgálatokat, ügyfélkapcsolat-kezelési rendszereket stb.) használnak a rosszindulatú programok szállítására. Ez az oka annak, hogy a rosszindulatú reklámozás olyan elterjedt, és sok felhasználót érint a tudta nélkül.
+
+#2.8
+
+Rosszindulatú
+3. lecke
+A rosszindulatú program (a rosszindulatú szoftverek rövidítése) az egyik olyan kifejezés, amelyet a leggyakrabban hallani a kiberbiztonsági fenyegetésekről. A feltételek meghatározzák a számítógépes bűnözők által használt szoftvereket:
+megzavarhatja a számítógép működését, érzékeny információkat gyűjthet be, vagy jogellenesen hozzáférhet magán számítógépes rendszerekhez.
+A rosszindulatú programokat a rosszindulatú szándék jellemzi, mivel lopakodva ellopja az Ön adatait, vagy hosszú ideig kémkedik a számítógépe után, az Ön tudta nélkül.
+A „rosszindulatú program” egy általános kifejezés, amely a rosszindulatú vagy behatoló szoftverek teljes kategóriájára vonatkozik, beleértve a számítógépes vírusokat, férgeket, trójai falókat, zsarolóprogramokat, kémprogramokat, reklámprogramokat, ijesztőprogramokat és egyéb káros programokat.
+
+A rosszindulatú programok általában futtatható kódon, szkripteken, aktív tartalomon és egyéb szoftvereken keresztül terjednek. A legnagyobb veszélyt az okozza, hogy a rosszindulatú programok nem rosszindulatú fájloknak vannak álcázva, vagy azokba vannak beágyazva, mint például a .jpeg, .mpeg, .exe, .gif, .mp3 és még sok más.
+Feltétlenül nézze meg ezt a több mint 50 olyan fájlkiterjesztést tartalmazó listát, amelyek potenciálisan veszélyesek a Windows rendszeren, hogy még jobb képet kaphasson arról, hogyan férkőzhetnek be a rosszindulatú programok a rendszerébe.
+
+#2.9
+
+Foltozás
+A javítás a szoftver frissítésének folyamata egy másik, újabb verzióra. A javítás egy szoftvergyártó által kiadott kis frissítés a meglévő programok hibáinak javítására.
+A javítások vonatkozhatnak a szolgáltatásokra és a használhatóságra, de tartalmazhatnak biztonsági funkciókat is.
+A javítás elengedhetetlen az online biztonsághoz, mert megakadályozza, hogy a számítógépes bűnözők támadásokat indítsanak a nulladik napi vírusokkal (a 18-as definíció).
+
+
+#2.10
+
+Adathalászat
+Az adathalászat (is) egy másik módszer, amelyet a kiberbűnözők érzékeny információk, például felhasználónevek, jelszavak és hitelkártyaadatok (és néha közvetett módon pénz) megszerzésére használnak úgy, hogy e-mailekben vagy más elektronikus kommunikációs eszközökben megbízható entitásnak adják ki magukat.
+Az adathalászat egy példa a szociális tervezési technikákra (a definíció a 12. helyen található), amelyeket a felhasználók megtévesztésére használnak, és kihasználják a jelenlegi webes biztonsági technológiák gyenge használhatósági szempontjait.
+3. lecke
+HOGYAN LEHET FERTŐZŐDNI:
+Úgy tűnhet, hogy egy adathalász e-mail jogszerűen az Ön bankjától származik, és ráveheti, hogy érvényes hitelesítő adatokat adjon meg egy hamis webhelyen.
+Az adathalászat e-maileken, azonnali üzenetküldő alkalmazásokon vagy közösségi média bejegyzéseken keresztül történik (a Facebookon, Twitteren, LinkedInen stb.).
+
+
+
+
+
+
+#2.11
+
+Ransomware
+A Ransomware a rosszindulatú programok egyik formája, amely lényegében fogva tartja a számítógépes rendszert, miközben váltságdíjat követel.
+Az ilyen típusú rosszindulatú programok a következők valamelyikével zárják ki Önt a számítógépből:
+a merevlemezen lévő fájlok titkosítása
+vagy a rendszer zárolása és olyan üzenetek megjelenítése, amelyek arra kényszerítik Önt, hogy fizessen a rosszindulatú program készítőjének a korlátozások megszüntetése és a számítógépéhez való hozzáférés visszaszerzése érdekében, általában kulcson keresztül. A rossz hír az, hogy a rosszindulatú programok készítője az egyetlen, aki ismeri a kulcsot.
+HOGYAN LEHET FERTŐZŐDNI:
+3. lecke
+A zsarolóvírusok általában úgy terjednek, mint egy normál számítógépes féreg (azáltal, hogy önmagát replikálják, hogy más számítógépekre is átterjedjenek), és megfertőzhetik a rendszert egy letöltött fájlon vagy egy hálózati szolgáltatás más sérülékenységén keresztül.
+Nagyon csekély az esélye az adatok visszanyerésének, hacsak nem hajlandó kifizetni a váltságdíjat (ezért kulcsfontosságú, hogy biztonsági másolatot készítsen adatairól egy biztonságos helyen).
+A rosszindulatú program létrehozója vagy biztosít egy programot, amely visszafejti a fájlokat, vagy küld egy feloldó kódot, amely dekódolja az Ön adatait. De nincs garancia arra, hogy ez megtörténik, még akkor sem, ha kifizeti a kért váltságdíjat.
+
+
+#2.12
+
+Szociális tervezés
+A social engineering az egyik leggyakrabban használt számítógépes hackelési módszer, amely alig vagy egyáltalán nem igényel technológiát. Pszichológiai manipulációra támaszkodik, hogy rávegye az áldozatokat bizonyos cselekvésekre vagy bizalmas információk kiszolgáltatására.
+HOGYAN LEHET KÖRNYEZETBE KERÜLNI:
+3. lecke
+Ebben az esetben a kiberbűnözők hazugságokat, megszemélyesítést, trükköket, kenőpénzt, zsarolást és fenyegetést használnak (akárcsak az exed) az információs rendszerek megtámadására. Az adathalászat (a 10. helyen definiált) szintén a szociális manipuláció egyik formája.
+A kiberbűnözők például vállalkozóknak, irtóknak, tűzoltóknak és technikusoknak adják ki magukat, hogy észrevétlenül maradjanak, miközben ellopják titkait, vagy ráveszik, hogy bizalmas információkat áruljon el a cégéről.
+
+
+#2.13
+
+Levélszemét
+Mindannyian tudjuk, hogy a spam azokból a bosszantó, kéretlen e-mailekből áll, amelyek eltömítik a beérkező leveleinket. Az elmúlt években azonban a spam elterjedt az azonnali üzenetküldő alkalmazásokban, az SMS-ben, a blogokban, a fórumokban, a keresőmotorokban, a fájlmegosztásban és a közösségi médiában.
+HOGYAN LEHET FERTŐZŐDNI:
+Bár a spam önmagában nem tűnik túl veszélyesnek, néha rosszindulatú programokat hordoz, vírusokat, férgeket és más típusú fenyegetéseket terjeszt, például pénzügyi lopást, személyazonosság-lopást, adat- és szellemi tulajdon ellopását, csalást és megtévesztő marketinget.
+
+
+
+
+#2.14
+
+trójai (trójai faló)
+3. lecke
+A trójai faló (általános nevén trójai) egy olyan típusú rosszindulatú program, amely normál fájlként vagy programként rejti el magát, hogy rávegye Önt rosszindulatú programok letöltésére és telepítésére.
+A trójai sok veszélyes dolgot tehet a rendszerében, például jogosulatlan távoli hozzáférést biztosít a számítógépes bűnözőknek a fertőzött számítógépéhez.
+Ha ez megtörténik, a számítógépes bűnözők:
+adatok ellopása (bejelentkezési adatok, pénzügyi adatok, akár elektronikus pénz), több rosszindulatú program telepítése, fájlok módosítása,
+figyelemmel kíséri tevékenységét (képernyőnézés, billentyűnaplózás stb.), használja a számítógépet botnetekben (internethez kapcsolódó programok gyűjteménye, amelyek más hasonló programokkal kommunikálnak rosszindulatú programok terjesztése érdekében),
+   titkosítsa fájljait, például a zsarolóvírusok esetében (a 11. helyen van meghatározva)
+összeomlik a számítógéped
+formázza a lemezeket, megsemmisítse az eszközön lévő összes tartalmat stb.
+
+HOGYAN LEHET FERTŐZŐDNI:
+Számos módja van annak, hogy a rendszerét egy trójai feltörheti:
+e-mail mellékletek szoftverén keresztül vagy zeneletöltéseken keresztül nem biztonságos azonnali üzenetek peer 2 peer letöltések
+3. lecke
+rutinlapok, amelyeket ki kell tölteni a drive-by letöltéseknél stb.
+
+
+
+#2.15
+
+URL vagy webtartalom szűrése
+Az URL- vagy webszűrő technológia olyan szoftver, amely megakadályozza, hogy nem megfelelő webhelyekhez vagy tartalmakhoz férhessen hozzá, vagy megakadályozza, hogy veszélyes webes helyre kerüljön (a veszélyes alatt rosszindulatú programokkal teli).
+A szoftver szűrője ellenőrzi a weboldal eredetét vagy tartalmát az URL-szűrőt telepítő cég vagy személy által megadott szabályok szerint. Ha a weboldal feketelistára került vagy fertőzöttként van megjelölve, megtagadja a hozzáférést az adott webes helyhez, megakadályozva ezzel a potenciális kibertámadást
+
+
+
+
+#2.16
+
+Vírus (számítógépes vírus)
+A számítógépes vírus (röviden nevén vírus) egyfajta rosszindulatú program (mondtam, hogy gyakran felbukkan!), amely képes önmagát replikálni, és átterjedni más számítógépekre és adatfájlokra.
+A vírusok úgy terjednek át más számítógépekre, hogy különféle programokhoz kapcsolódnak, és kódot hajtanak végre, amikor elindítja valamelyik fertőzött programot.
+3. lecke
+De valóban alattomosak, így szkriptfájlokon, dokumentumokon és a webalkalmazások webhelyeken átívelő szkriptelési sebezhetőségein keresztül is terjedhetnek (a 17. helyen van meghatározva).
+A vírusok azért is gonoszak, mert felhasználhatók információk ellopására, számítógépek ártására, billentyűleütések naplózására (keylogging – 6. pont), botnet létrehozására, névjegyek spam küldésére, pénz ellopására, politikai vagy humoros üzenetek megjelenítésére a képernyőn (a a legkisebb aggodalma), és így tovább.
+(Csúnya dolgok, tudom!)
+HOGYAN LEHET FERTŐZŐDNI:
+A vírusok az Ön beleegyezése nélkül telepítik magukat, mert a számítógépes bűnözők szociális manipulációt (12. pont) használnak, és szoftverhibákat és sebezhetőségeket (a 17. helyen definiált) kihasználnak, hogy hozzáférjenek az Ön számítástechnikai erőforrásaihoz.
+A vírusok futtatható fájlokban (.exe vagy .com fájlok), adatfájlokban (Microsoft Word dokumentumok vagy PDF-ek) vagy a merevlemez rendszerindító szektorában találhatók. Vagy mindezek kombinációjában.
+3. lecke
+És a legrosszabb az, hogy egyes vírusok polimorfak, ami azt jelenti, hogy a vírusnak nincsenek olyan részei, amelyek azonosak maradnának a fertőzések között, ami nagyon megnehezíti a víruskereső megoldással történő közvetlen észlelését.
+
+
+
+
+#2.17
+
+Sebezhetőség
+A kiberbiztonsági sebezhetőség olyan gyengeség, amely lehetővé teszi a támadók számára, hogy aláássák a rendszer adatbiztonsági védelmét.
+A sebezhetőség 3 elem metszéspontjában jelenik meg:
+1. rendszer érzékenység vagy hiba (például: a Java szoftvered nem frissült a legújabb verzióra – elég ártatlannak tűnik, igaz?)
+2. támadó hozzáférése a hibához (példa: rákattint egy rosszindulatú programokkal fertőzött szalaghirdetésre, amely letöltést küld a számítógépére)
+3. és a támadó képessége a hiba kihasználására (példa: most a számítógépes bűnöző bejut a rosszindulatú letöltésen keresztül).
+A sebezhetőség csak színlelés, amellyel egy számítógépes bűnöző teljes körű támadást indíthat az Ön rendszere ellen. Ehhez még szüksége van a megfelelő eszközökre, de nagy kínálatban vannak az interneten, és olcsók is.
+
+A sebezhetőségek elleni védekezés módja az, hogy a szoftvert folyamatosan frissítve kell tartani, és vannak más tippek és trükkök is, amelyeket a következő leckéken is megosztok.
+
+
+
+
+#2.18
+
+Nulladik napi vírus
+Most, hogy tudja, mi a sebezhetőség, nagyon könnyű lesz megérteni, mi is az a nulladik napi vírus.
+A nulladik napi vírusok akkor jelennek meg, amikor a számítógépes bűnözők hibát fedeznek fel egy szoftverben (például az Adobe Airben). Ezt a sebezhetőséget kihasználva olyan támadást indítanak, amely ellen a felhasználók nem tudnak védekezni, két egyszerű okból:
+   Az általuk kihasznált hibát egy korábban ismeretlen számítógépes vírus vagy más rosszindulatú program elindítása támadja meg
+
+A víruskereső programok aláírásokra támaszkodnak a rosszindulatú programok azonosításához, de az új típusú rosszindulatú programok vagy vírusok aláírása nem szerepel az adatbázisukban, mert új, és nem vettek belőle mintát.
+Ez az oka annak, hogy a víruskereső szoftverek nem hatékonyak a nulladik napi vírusok ellen, és ezért van szükség további megoldásokra, amelyek megvédik Önt az ehhez hasonló fejlett támadásoktól.
+3. lecke
+
+HOGYAN LEHET FERTŐZŐDNI:
+Az előzőleg leírt szokásos módszerek ebben az esetben is működnek: drive-by downloads
+rosszindulatú reklámozás
+levélszemét
+e-mail-mellékleteken keresztül, vagy zeneletöltéseken keresztül nem biztonságos azonnali üzeneteket, 2-es peer-eket tölt le rutin űrlapokat, amelyeket ki kell tölteni stb.
+A különbség az, hogy ha egyszer megfertőződik, nagyon keveset tudsz tenni a fertőzés megállítása és a hatások mérséklése érdekében.
+3. lecke
+De ígérem, hogy megtanítjuk Önnek, hogyan védekezzen az ilyen támadások ellen, és hogyan tudjon mindig biztonságban lenni az interneten!
+
+
+##IDÁIG##
+##  28 DIA  ###
+
+
+#3
+Tartsa meg Windows operációs rendszerét és saját
+a sebezhető alkalmazások naprakészek.
+
+
+Biztos vagyok benne, hogy az utóbbi időben sok biztonsági hírt olvasott
+a szoftver sebezhetőségeivel kapcsolatban, és felteszi a kérdést:
+mit tehetek? Sokan nem veszik komolyan ezt a hírt, hiszen a legtöbb
+biztonsági megoldásokat elsősorban a rosszindulatú szoftverek
+áru.
+A szoftveres sebezhetőségek azonban nem olyanok, amelyeket megtehetsz
+figyelmen kívül hagyni. A szoftver sebezhetőségeinek kihasználása
+népszerű programokban és alkalmazásokban népszerű
+online bűnözők által használt módszer.
+Tehát, ha tudja, hogy olyan népszerű szoftvereket használ, mint a Java,
+Adobe Flash, Adobe Shockwave, Adobe Acrobat Reader,
+Quicktime vagy olyan népszerű webböngészők, mint a Chrome, Mozilla
+Firefox vagy Internet Explorer, mindig győződjön meg arról, hogy rendelkezik
+a legújabb elérhető javítások.
+Meg kell értenie, hogy ezek a szoftveres megoldások
+mindig a bűnözők fenyegetése alatt áll, ezért ne hagyatkozzon rá
+memóriáját, és telepítsen egy dedikált megoldást
+ezeket a műveleteket az Ön számára.
+
+
+
+
+#4
+Használjon szabványos felhasználói fiókot a Windows rendszerben
+operációs rendszert az internethez való csatlakozáshoz
+
+
+Különböző szintű jogok és kiváltságok állnak rendelkezésre
+a Windows felhasználói fiókok. javaslom stan-
+dard Windows felhasználói fiókot az internet eléréséhez.
+Ha szabványos fiókot használ Windows operációs rendszerében, győződjön meg arról, hogy egy rosszindulatú program, amely
+megfertőzheti korlátozott felhasználói fiókját, nem lesz képes
+nagy károkat okoz a rendszerében.
+Csak egy rendszergazdai fiók lehet jelentős
+a rendszer módosításai, például a fontos Windows törlése
+kapcsolódó fájlokat vagy rosszindulatú szoftvereket telepít. Ha használ
+szabványos fiókjához, meg kell adnia
+minden alkalommal megadja a rendszergazdai fiók adatait
+fontos változást hozni
+
+
+
+
+##IDÁIG##
+##  30 DIA  ###
+
+
+
+
+#5
+Ne kapcsolja KI az UAC-t (Felhasználói fiókok felügyelete)(User Account Control)
+
+Be kell vallanom, én is hajlamos vagyok erre
+csinálni:
+Kapcsolja ki az UAC-t, amint telepítem/újratelepítem a Win-
+dows operációs rendszer.
+De meg kell tennem? Ez biztonságosabbá teszi a rendszeremet?
+A válasz nem.
+Mi van, ha ahelyett, hogy teljesen kikapcsolná, talán megteheti
+csak csökkenti a védelem szintjét a biztosított használatával
+csúszka?
+Az UAC szerepe az, hogy figyelemmel kísérje, milyen változások következnek be a
+rendszer, és amikor egy fontos esemény történik, mint pl
+alkalmazás telepítése vagy eltávolítása Az UAC gondoskodik arról, hogy rendelkezzen rendszergazdai jogosultságokkal
+és hogy valóban meg akarja tenni ezt a lépést. Abban az esetben, ha a te
+A Windows felhasználói fiók megfertőződött, az UAC segít
+megakadályozva, hogy a gyanús szoftverek változtatásokat hajtsanak végre
+a rendszer.
+
+
+
+#6 lesson 10
+Csatlakozzon az internethez egy biztonságos böngészővel
+
+A webböngésző a fő eszköz, amellyel elérheti
+Internet, és erre nagyon oda kell figyelni
+rögzítse megfelelően. Ugyanakkor a sebezhetőségek a
+a webböngészők olyanok, mint a hackerek nyílt meghívása. Által
+ezeket a nyitott ajtókat használva az online bűnözők megkísérlik
+személyes adatok lekérése a rendszerről.
+Online adatainak védelme érdekében kövesse az alábbi utasításokat:
+ajánlások:
+Csatlakozzon az internethez egy biztonságos böngészővel6.
+Válassza ki böngészőjének legújabb verzióját, és győződjön meg róla
+telepítve van a legújabb biztonsági javítás. Ez
+fontos, és megvédi rendszerét az internettől
+bűnözők támadásai.
+Növelje adatvédelmi és biztonsági beállításait a böngészésben -
+er. Epikus, felhasználóbarát, hogyan kell a 10. leckében!
+Válasszon privát böngészési munkamenetet, amikor eléri a
+webhely, amelyben nem vagy biztos. Ha ezt a navigációs módot választja, akkor a böngészési munkamenet részletei nem jelennek meg
+tárolás alatt áll.
+Használjon biztonságos webhelyeket az érzékeny pénzügyi műveletekhez. Nak nek
+látogasson el egy biztonságos webhelyre, és győződjön meg arról, hogy a webcím elindul
+„https://”-vel. Az „s” a „secure socket layer”-ből származik,
+és azt jelzi, hogy csatlakozik egy webhelyhez, ahol
+a küldött és fogadott adatok titkosítva vannak
+
+
+
+
+#7 lesson 11
+Ne bízzon a nyilvános és ingyenes Wi-Fi hálózatokban
+
+Legyen óvatos, amikor nyilvános és ingyenes vezeték nélküli hálózathoz csatlakozik
+hálózatok. Az egyik kedvenc online módszer
+A bűnözők vezeték nélküli kapcsolaton keresztül szerezhetik meg hitelesítő adatait
+szippantóknak, hogy hozzáférjenek a nem védett hálózatokon küldött adatokhoz.
+A biztonság növelésének egyik módja a „privát
+böngészés” munkamenetben, így megbizonyosodhat arról,
+a tiálok nem lesznek helyben tárolva. Ennek ellenére ez nem áll meg
+az internetszolgáltató vagy bárki más, aki „hallgat”
+odakint, hogy elkapja privát kommunikációját.
+Az online lopás veszélyének növekedésével és hiányával
+magánélet védelme a népszerű közösségi platformokon, például a Facebookon,
+meg kell védened a szabadságodat és meg kell védened
+Internetes tevékenységek. A böngészés megtartásának egyik módja
+privát és biztonságos munkamenet egy VPN (vagyis egy Vir-
+magánhálózat).
+
+Otthoni Wi-Fi-je és eszközei csúcsformába hozása
+az online böngészésről szól a 11. lecke. Cyber
+a bűnözők nem fogják tudni, mi akadályozta meg őket!
+
+
+
+#7.1          11 biztonsági lépés a nyilvános Wi-Fi hálózatok biztonságának megőrzéséhez
+1. Kapcsolja ki a nyilvános hálózati megosztási beállításokat
+ 
+Ha otthoni vagy munkahelyi hálózatát használja, elég biztonságban érezheti magát ahhoz, hogy engedélyezze a hálózati erőforrások (például nyomtatók vagy nyilvános mappák) megosztását, de nem biztonságos nyilvános hálózaton ez nem ajánlott. A nyilvános vezeték nélküli hálózatok általában nem tartoznak a magas szintű biztonság alá, és a hackerek és a rosszindulatú szoftverek kedvenc helyei.
+
+
+#7.2
+Engedélyezze a tűzfalat
+11. lecke
+Győződjön meg arról, hogy a Windows tűzfala be van kapcsolva. Ha olyan biztonsági terméket használ, amely jobb tűzfalat biztosít, ellenőrizze, hogy továbbra is engedélyezve van-e. Néha, amikor megpróbál hozzáférni egy online helyhez, és lassulást észlel, ideiglenesen letiltja, és elfelejti újra engedélyezni.
+Az ellenőrzéshez nyissa meg a Vezérlőpult ablakát, lépjen a Rendszer és biztonság elemre, és válassza a Windows tűzfal lehetőséget.
+(A lépések eltérőek lehetnek a különböző Windows operációs rendszereken.)
+
+
+#7.3
+Használjon biztonságos webhelyeket az érzékeny műveletekhez
+Először is nem javaslom, hogy nyilvános vezeték nélküli hálózaton futtasson semmilyen fontos műveletet vagy pénzügyi tranzakciót.
+Ennek ellenére, ha továbbra is nyilvános hálózatot kell használnia banki egyenlegének ellenőrzéséhez, feltétlenül látogasson el egy biztonságos webhelyre.
+Ha tudni szeretné, hogy biztonságos webhelyet használ, tekintse meg a webcím bal oldalán található „Zárolás” ikont. Ez azt jelzi, hogy titkosított vagy ellenőrzött helyen tartózkodik.
+11. lecke
+Ezzel egyidejűleg ellenőrizze, hogy a webcím „https://” előtaggal kezdődik. Az „S” a „secure socket layer”-ből származik, és tudja, hogy egy olyan webhelyre megy, ahol a kommunikáció titkosított.
+Ha nem szeretné állandóan ellenőrizni a webcímet, használja a HTTPS Everywhere szolgáltatást, amely elérhető a Firefox, a Chrome és az Opera számára. Ennek a kis bővítménynek az a szerepe, hogy titkosítsa a kommunikációt számos nagy webhelypel, így biztonságosabbá és biztonságosabbá teszi a böngészést az online bűnözőktől.
+Még ha nem is használja ezt a bővítményt, sok webhely, például a Facebook vagy a Gmail automatikusan használja a https-t. A végén ismét elmondjuk, hogy az érzékeny böngészést, ahol fontos hitelesítő adatokat vagy pénzügyi adatokat használnak fel, nem szabad nyilvános hálózatokon futtatni.
+
+
+#7.4
+Használjon virtuális magánhálózatot
+A nyilvános hálózatok a kiberbűnözők kedvenc helyei, ahol vezeték nélküli szippantókkal érzékeny adatokat nyerhetnek le, hogy a nem biztonságos hálózaton keresztül küldött kommunikációs részleteket kapjanak.
+A kapcsolat biztonságának növelése érdekében használhat „privát böngészési” munkamenetet, ami azt jelenti, hogy a böngészési előzmények nem maradnak helyben. Ez azonban nem jelenti azt, hogy az internetszolgáltató vagy a hálózati rendszergazda letiltja az online munkamenet „hallgatását”.
+A nagyobb fokú biztonság érdekében elkezdhet VPN-t használni, amely egy virtuális magánhálózat.
+A VPN elrejti IP-címét azáltal, hogy titkosítja a kapcsolatot, és lehetővé teszi, hogy névtelenül böngésszen az interneten. Ezzel a módszerrel megvédi online magánéletét, és megőrzi értékes adatait a kiberfenyegetésektől, az online csalásoktól, a személyazonosság megsértésétől és az adathalász kísérletektől.
+Ahhoz, hogy az online munkamenet privát maradjon a nyilvános vezeték nélküli hálózatokon, egy olyan népszerű VPN-megoldást ajánlok, mint a CyberGhost.
+
+
+#7.5
+Kapcsolja KI a Wi-Fi kapcsolatot
+Befejezted a Wi-Fi hálózat használatát? Ezután ne felejtse el kikapcsolni.
+Nincs ok arra, hogy a kelleténél jobban kapcsolatban maradjon. Minél inkább marad kapcsolatban, annál nagyobb az esélye annak, hogy a számítógépes bûnözõk vagy a rosszindulatú szoftverek észrevegyék a rendszert. Ezzel egyidejűleg a laptop akkumulátorának élettartamát is kíméli.
+
+
+#7.6
+ Frissítsen és javítson mindent
+11. lecke
+Tartsa naprakészen Windows operációs rendszerét
+Mindig tartsa naprakészen a rendszert az elérhető legújabb biztonsági frissítésekkel és javításokkal.
+A biztonsági frissítések automatikus letöltéséhez kövesse az alábbi lépéseket:
+1. Nyissa meg a Windows Vezérlőpult ablakát.
+2. Válassza a Windows Update lehetőséget, majd kattintson a Beállítások módosítása elemre.
+3. Győződjön meg arról, hogy a Frissítések automatikus telepítése lehetőség van kiválasztva.
+Fontos, hogy a legújabb biztonsági frissítésekkel rendelkezzen
+Windows operációs rendszer, mert stabilizáló-
+olyan javításokat és javításokat, amelyek megvédik a rendszert az olyan kiberbűnözőktől, amelyek megpróbálnak hasznot húzni a biztonsági résekből.
+Frissítse szoftverét a legújabb javításokkal
+Tudom, hogy az online bűnözők megpróbálnak hasznot húzni a számítógépeinken használt népszerű szoftverekben, például a Java-ban, az Adobe Flash-ben vagy az olyan népszerű webböngészőkben, mint a Chrome, a Mozilla vagy az Internet Explorer.
+Emiatt azt javaslom, hogy rendelkezzen a használt szoftver legújabb frissítéseivel vagy biztonsági javításaival. Vagy ha nem szeretne minden nap a sebezhető alkalmazások ellenőrzésével és naprakészen tartásával bajlódni, akkor egy ingyenes, dedikált megoldás használatát javaslom a feladat elvégzéséhez.
+
+#7.7
+Ne csatlakozzon nyilvános hálózathoz megbízható vírusirtó nélkül
+Fontos, hogy egy jó vírusirtó termékünk legyen egy nagy biztonsági cégtől, amely valós idejű vizsgálatot, tűzfalat és automatikus frissítési lehetőségeket tartalmaz. Térjen vissza az 5. leckéhez Ha tanácsra van szüksége a rendszeréhez (és költségvetéséhez) megfelelő AV kiválasztásához
+
+
+#7.8
+Ne böngésszen jó kémprogram-elhárító megoldás nélkül
+Először is mit értesz spyware alatt?
+Anélkül, hogy túl sok információba mennék, a következőképpen viselkedne rendszere, ha kémprogramokkal fertőződött volna:
+felugró ablakok mindenhol vannak
+   A hibaüzenetek figyelmeztetés nélkül jelennek meg, és úgy tűnik, nem mennek könnyen
+   a webböngésző keresőjét valami rosszra cserélték
+webböngésző kezdőlapja nem az Ön által beállított ismeretlen eszköztárak jelennek meg a böngészőben a lassulás minden lépését befolyásolja
+Hogyan legyek kémprogramok elleni hős?
+A kémprogramok bármilyen típusú hálózaton hatással lehetnek ránk, de nyílt nyilvános hálózaton az online veszélyek még jobban érinthetik számítógépeinket.
+Ahhoz, hogy rendszerét megóvja a kémprogramoktól, fel kell hívnom a figyelmet az online szférában jól bevált cégek spyware megoldásainak használatának fontosságára, mint például a Spybot Search and Destroy, a Lavasoft's Ad-Aware, a Malwarebytes és mások.
+És végül még egyszer el kell mondanom. Még ha telepíted is
+20 biztonsági megoldás a biztonság megőrzésére az interneten, hacsak nem követ néhány jó biztonsági gyakorlatot, nem lesz biztonságban az interneten:
+   maradjon távol a horgászlinkekre kattintástól vagy a véletlenszerű felugró ablakoktól
+   ne válaszoljon furcsa kérdésekre a böngészőjében vagy az e-mail postafiókjában
+   ne csak az interneten töltsön le minden látott alkalmazást
+
+#7.9
+
+Ne bonyolítson pénzügyi tranzakciókat különleges védelem nélkül
+11. lecke
+Még egyszer el kell mondanom:
+Nyomatékosan nem tanácsolom a pénzügyi tranzakciók lebonyolítását, illetve az érzékeny vagy értékes információk beszúrását nyilvános, nem biztonságos hálózat használatakor!
+Mindazonáltal, ha valóban, nagyon, IGAZÁN hozzá kell férnie bankszámlájához, vagy online fizetnie kell, egy speciális biztonsági megoldást ajánlok, amely megakadályozza a rosszindulatú szoftverek érzékeny adatok visszakeresését, és megakadályozza a kiberbűnözők tevékenységét, mielőtt azok hatással vannak a rendszerére.
+A következő generációs hackelhárító eszközök (a 6. lecke sztárjai) egy extra biztonsági réteg, amelyet az online biztonság teljessé tételére terveztek.
+
+
+#7.10
+Biztosítsa böngészőjét, mielőtt csatlakozik az internethez
+Webböngészőink használatával lépünk fel az internetre, ezért ezeket az eszközöket megfelelően kell biztosítanunk, mielőtt bármilyen webhelyre lépnénk.
+És ne felejtsük el, hogy a böngészők olyan alkalmazások, amelyek megfelelő biztonsági frissítések nélkül belépési ajtókká válhatnak az online bűnözők számára, akik nem javított biztonsági rések segítségével próbálnak meg adatokat lopni.
+Ezért az online biztonság növelése érdekében, különösen nyilvános vezeték nélküli hálózat használata esetén, kövesse az alábbi irányelveket:
+  Győződjön meg arról, hogy a böngésző legújabb verziójával rendelkezik, és telepítette a legújabb biztonsági javításokat.
+  Hozzáférhet és módosíthatja böngészője biztonsági beállításait. Térjen vissza a 11. leckéhez a lépésenkénti utasításokért (és ténylegesen módosítsa a beállításokat, ha még nem tette meg). Használja a privát böngészési munkamenetet, mielőtt hozzáférne egy webhelyhez. Ez az opció nem rögzíti helyileg a böngészési előzményeket. A privát böngészési munkamenet kiválasztása után lépjen a keresőmotorjába, és keressen ingyenes proxyt vagy valami hasonlót, nyissa meg a proxyt, és írja be az elérni kívánt webhely címét. Sok ingyenes
+proxy webhelyek az interneten, így meglehetősen könnyű megtalálni egyet. A fokozott védelem érdekében töltsön le online egy népszerű és megbízható VPN-szoftvert, például a CyberGhost-ot, és győződjön meg arról, hogy az elküldött és fogadott adatok titkosítottak, és nem férhetnek hozzá a kíváncsi szemek.
+
+
+#7.11
+
+Mindenhol használjon kéttényezős hitelesítést
+11. lecke
+Ez az opció valójában egy extra biztonsági lépés, amely megvédheti népszerű online fiókját. Ez lehet az Ön Facebook-, Twitter- vagy Gmail-fiókja. Vagy bármely más online fiók lehet, amely biztosítja a kéttényezős hitelesítést.
+Ez az extra biztonsági lépés növeli az online védelmet azáltal, hogy gondoskodik arról, hogy a hackerek által visszakereshető hitelesítő adatokon kívül egy további egyszeri kódot is meg kell adnia, amelyet a mobiltelefonjára küldenek.
+Mindig hasznos áttekinteni a programok és webalkalmazások bővített listáját, mielőtt kiválasztana egyet a rendszeréhez.
+A fenti lépések követhetők nyilvános Wi-Fi hálózatokon az adatvédelem növelése érdekében. Ugyanakkor ne felejtse el, hogy az internet néhány kevésbé védett területéről beszélünk, és kerülje a fontos érzékeny műveletek végrehajtását ezeken a területeken.
+
+
+
+#7.2.1
+10 Steps to Maximize your Home Wireless Network Security
+
+
+
+
+
+
+#8
+Mielőtt rákattint, ellenőrizze a linket
+
+Az adathalász fenyegetéseket általában e-mail üzenetek használatával hajtják végre.
+es amelyek nyilvánvalóan pénzintézetektől származnak, ill
+jól ismert banki weboldalak. Ezek a visszakeresési kísérletek
+a felhasználótól származó személyes adatok hivatkozásokat biztosítanak az üzenetben
+bölcsek, amelyek az áldozatot hamis internetes helyre irányítják,
+online bűnözők trollkodnak.
+Annak érdekében, hogy ne fertőződjön meg, kattintson a dan-
+gerous linkek, vigye az egeret a link fölé, és nézze meg, hogy Ön
+törvényes helyre irányítják. Ha felkeltél volna-
+az online banki webhely eléréséhez, de a link
+a „hfieo88.net” feliratot jelzi, akkor ne kattintson a hivatkozásra.
+Szóval, honnan tudhatom, hova jutok, ha rákattintok?
+Annak érdekében, hogy megbizonyosodjon arról, hogy a megfelelő irányba megy, használja a
+ingyenes eszköz, mint például a Redirect Detective. Ez az eszköz lehetővé teszi
+megtekintheti az átirányított hivatkozás teljes elérési útját. Egy másik
+eszköz, amely nagyon hasznos lehet a gyanú ellenőrzésében
+A cious links a megbízható URL-ellenőrző, a VirusTotal:
+https://virustotal.com/
+
+
+
+
+#9
+Ne felejtsen el kijelentkezni
+
+
+Ne egyszerűen zárja be a böngészőt, ha végzett
+pénzügyi műveleteiről, vagy amikor kilép az online ügyletből
+számol.
+Ne feledje, hogy ki kell jelentkeznie a fiókjából
+online fiók. Ha ezt nem teszi meg, főleg ha igen
+nyilvános helyen a következő személy, aki megnyitja az Arc-
+könyvfiók például közvetlenül hozzáférhet az arc-
+könyv profilja.
+Azt javaslom, hogy használjon virtuális böngészőt a pénzügyeihez
+az online banki szolgáltatások biztonságának megőrzése érdekében. Pri-
+privát böngészés is javasolt, ha Ön
+szeretné megakadályozni a hitelesítési adatokat (vagy cookie-kat)
+a tárolástól.
+
+
+
+
+#10 lesson 13
+Ne tegyen közzé személyes információkat a közösségi médiában
+fiókok
+
+
+A személyes adatok nyilvánosságra hozatala arra késztetheti a hackereket, hogy megtalálják
+pénzügyi adatait. Ugyanezen okból ellenőrizze
+gyermekei közösségi média viselkedését, hogy megbizonyosodjon arról, hogy nem
+felfedhet személyes adatokat, amelyek esetleg felhasználhatók
+ellened, adathalász támadásokban.
+A 13. lecke felhasználásra kész tanácsokat tartalmaz
+hogyan maradhat biztonságban a közösségi média használata közben.
+
+
+
+
+#11 lesson 3
+Ne érjen el megkérdőjelezhető internetes helyeket
+
+Ne érjen el és ne töltsön le tartalmat ismeretlen vagy
+troverzális helyszínek. Hozzáférés a bevált webhelyekhez
+biztonságban, és tudod, hogy megbízhatsz.
+Ez azonban nem garancia arra, hogy nem kapja meg
+fertőzött. Manapság a kiberbűnözők kihasználják a sebezhetőséget,
+legitim webhelyekhez kötődik, és rosszindulatú kódot juttat be, mint pl
+hogy áthajtós támadásokat hajtsanak végre a gyanútlan látogatók ellen.
+Ez lehet egy ingyenes képernyővédő vagy egy böngésző eszköztár
+megfertőzheti Önt egy keyloggerrel (a definíció jön
+lecke!), amely rögzítheti és elküldheti személyes adatait
+kiberbűnözők.
+Hogy megbizonyosodjon arról, hogy rendszere védve van, és a hitelesítő
+tials nincs kitéve, telepítsen biztonsági terméket, amely
+képes észlelni és megakadályozni, hogy a hackerek értékes információkat lopjanak el.
+rendszeréből.
+Köszönjük, hogy a végéig velünk tartottatok!
+Igyekeztünk lefedni a minimálisan megtehető lépéseket
+rövid ideig, hogy nagymértékben megnövelje a rendszer se-
+kíváncsiság.
+Bár lehet, hogy most nincs időd mindegyiket követni, ne feledd, hogy bármikor visszatérhetsz ehhez
+papírra, amikor úgy érzi, hogy újra át kell néznie az információkat
+
+
+
+
+
+
+
+
+3 --- hogyan fertőződhetsz (lefordítva)
+4 ---  Jelszó              (lefordítva)
+11 ---nyilvános Wi-Fi-hálózat biztonság megőrzés     (lefordítva)
+
+60 DIA lesz
+
+Köszönöm a figyelmet DIA +
+
+
+OSINT   http://real.mtak.hu/104380/1/WEB---NSZ_2019_2---003-018_Solti.pdf
+
+A katonai felderítés és hírszerzés rendszerén kívül
+létező, a publikum számára nyilvánosan, legális eszközökkel
+megszerezhető, vagy korlátozott körben terjesztett, de nem minősített adatok szak-
+mai szempontok alapján történő felkutatását, gyűjtését, szelektálását, elemzését-
+értékelését és felhasználását jelenti.
+
+
+VAGY
+
+
+önálló nyílt
+adatszerző tevékenység valamely személy vagy szervezet által közzétett, nyilváno-
+san, legális eszközökkel megszerezhető vagy korlátozott körben terjesztett, de nem
+minősített adatoknak a hírszerzési igények kielégítésére, speciális módszertan alapján
+történő felkutatását, gyűjtését, szelektálását, értékelését és felhasználását jelenti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
